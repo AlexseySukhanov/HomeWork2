@@ -1,0 +1,3 @@
+cardnumber=1234567887654321
+lastnumbers=cardnumber%10000
+print(lastnumbers)
